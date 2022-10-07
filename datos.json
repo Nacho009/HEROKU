@@ -1,0 +1,90 @@
+[
+    {
+        "title": "Turixmo.com",
+        "subtitle": "Final Project, Studies in Technology SENA - ADSI (in group) 'Tu mejor opcion'",
+        "urlimg": "img/turixmo.png",
+        "description":"Booking System of bedrooms for give the chance to small hotels offer its services and the tourist can visist sites of the city with a cheaper price.",
+        "technologies": "HTML5 - CSS3 - PHP - MYSQL - BOOTSTRAP 4 - #JAVASCRIPT - VUE JS - (Microframework << Laurel >>)",
+        "urlproject": null,
+        "urlcode": null,
+        "date": "November 2020",
+        "urlvideo": null
+    },
+    {
+        "title": "Your Finances",
+        "subtitle": "Individual Project",
+        "urlimg": "img/finanzas.png",
+        "description": "Manage your money with the best efficient way, here you can carry your contability with detail and save your money.",
+        "technologies": "HTML5 - CSS3 - PHP - MYSQL - BOOTSTRAP 4 - #JAVASCRIPT",
+        "urlproject": "http://finanzas.infinityfreeapp.com/",
+        "urlcode": "https://github.com/Lobaton2020/Manejo-Finanzas",
+        "date": "September 2020",
+        "urlvideo": "https://www.youtube.com/watch?v=w0I53R80JyM"
+    },
+    {
+        "title": "Public Transport",
+        "subtitle": "Individual Project",
+        "urlimg": "img/trans-public.png",
+        "description": "Allow to manage buses, routes, drivers and assign one route to one driver create contacts and much more",
+        "technologies": "HTML5 - CSS3 - PHP - MYSQL - BOOTSTRAP 4 - #JAVASCRIPT . an app of Back-end another with the Front-end. consuming an API",
+        "urlproject": null,
+        "urlcode": "https://github.com/Lobaton2020/Transporte_Publico",
+        "date": "July 2020",
+        "urlvideo": null
+    },
+    {
+        "title": "Social Network - SocialNet",
+        "subtitle": "Individual Project",
+        "urlimg": "img/redsocial.png",
+        "description": "Allow the interaction with others users like create posts, make friends, typing, react other posts, make comments in an sure way and much more.",
+        "technologies": "HTML5 - CSS3 - PHP - MYSQL - BOOTSTRAP 4 - #JAVASCRIPT",
+        "urlproject": null,
+        "urlcode": "https://github.com/Lobaton2020/Redsocial_SocialNet",
+        "date": "May 2020",
+        "urlvideo": null
+    },
+    {
+        "title": "Virtual Board",
+        "subtitle": "Individual Project",
+        "urlimg": "img/tablerovirtual.png",
+        "description": "Allow to one user add text and can share with other users with a code, this code can be used by other users to see and copy the text.",
+        "technologies": "HTML5 - CSS3 - PHP - MYSQL - AJAX - BOOTSTRAP 4 - #JAVASCRIPT",
+        "urlproject": null,
+        "urlcode": "https://github.com/Lobaton2020/TableroVirtual",
+        "date": "March 2020",
+        "urlvideo": null
+    },
+    {
+        "title": "Galery 1101",
+        "subtitle": "Individual Project",
+        "urlimg": "img/sitio_1101.png",
+        "description": "Created to remember my degree 11 in the high school, this app allow to manage images that freeze a long the time and share with my partners in the future",
+        "technologies": "HTML5 - CSS3 - BOOTSTRAP 4 - PHP - MYSQL",
+        "urlproject": null,
+        "urlcode": "https://github.com/Lobaton2020/Sitio_Once_01",
+        "date": "October 2019",
+        "urlvideo": null
+    },
+    {
+        "title": "TakeNotes",
+        "subtitle": "Individual Project",
+        "urlimg": "img/sitio_LLAN.png",
+        "description": "Created for organize my activities, tasks, schedule then I decided to create my owner web app to do this.",
+        "technologies": "HTML5 - CSS3 - PHP - MYSQL - BOOTSTRAP 4 - JAVASCRIPT",
+        "urlproject": "https://tomanota.000webhostapp.com/",
+        "urlcode": "https://github.com/Lobaton2020/TomaNotas",
+        "date": "from July 2019 to 2020",
+        "urlvideo": null
+    },
+    {
+        "title": "Solumovil Billing & Inventory",
+        "subtitle": "Technical Project SENA (in group)",
+        "urlimg": "img/sitio_solumovil.png",
+        "description": "Resolve the requirement of Inventory and Billing of one commercial local of technnical service on the small town of Engativá -Bogotá",
+        "technologies": "HTML5 - CSS3 - PHP - MYSQL - BOOTSTRAP 4 - #JAVASCRIPT",
+        "urlproject": null,
+        "urlcode": "https://github.com/Lobaton2020/S.I_SOLUMOVIL_MVC",
+        "date": "2019",
+        "urlvideo": null
+    }
+]
